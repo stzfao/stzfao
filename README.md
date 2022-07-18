@@ -1,76 +1,54 @@
-            .       .                   .       .      .     .      .
+           .       .                   .       .      .     .      .
           .    .         .    .            .     ______
       .           .             .               ////////
                 .    .   ________   .  .      /////////     .    .
            .            |.____.  /\        ./////////    .
     .                 .//      \/  |\     /////////
-       .       .    .//          \ |  \ /////////       .     .   .
-                    ||.    .    .| |  ///////// .     .
-     .    .         ||           | |//`,/////                .
-             .       \\        ./ //  /  \/   .
-  .                    \\.___./ //\` '   ,_\     .     .
-          .           .     \ //////\ , /   \                 .    .
-                       .    ///////// \|  '  |    .
+       .       .    .//          \ |  \ /////////       .     .   .                 Hello, you can call me stzfao, or ao for short.   
+                    ||.    .    .| |  ///////// .     .                                                                
+     .    .         ||           | |//`,/////                .                      I like working on astronomy and aerospace
+             .       \\        ./ //  /  \/   .                                     related projects, from low-level computing to 
+                       \\.___./ //\` '   ,_\     .     .                            space systems design. Occassionally dabble
+          .           .     \ //////\ , /   \                 .    .                in software too. Or maybe it's the other way
+                       .    ///////// \|  '  |    .                                 around. Or both.
       .        .          ///////// .   \ _ /          .
                         /////////                              .
-                 .   ./////////     .     .
-         .           --------   .                  ..             .
-  .               .        .         .                       .
-                        ________________________
-____________------------                        -------------_________ 
+                 .   ./////////     .     .                                         
+         .           --------   .                  ..             .                                     ~+
+                  .        .         .                       .                                                   *       +
+                                                                                                           '                  |
+                                                                                                       ()    .-.,="``"=.    - o -
+            Someday I will update my profile, uptill then here's a                                           '=/_       \     |
+            a bit about me:                                                                               *   |  '=._    |
+             - B.Tech in Electronics and Telecommunication Engineering                                         \     `=./`,        '
+             - I love vocaloids, voice synthesis and 8bit music                                             .   '=.__.=' `='      *
+             - I make digital art as a hobby :)                                                    +                         +
+             - 日本語OKです。                                                                             O      *        '       .
 
 
-       _..._     
-     .:::::::.    
-    :::::::::::   NEW  MOON
-    ::::::::::: 
-    `:::::::::'  
-      `':::'' 
-       _..._     
-     .::::. `.    
-    :::::::.  :    WAXING CRESCENT
-    ::::::::  :  
-    `::::::' .'  
-      `'::'-' 
-       _..._     
-     .::::  `.    
-    ::::::    :    FIRST QUARTER
-    ::::::    :  
-    `:::::   .'  
-      `'::.-' 
-       _..._     
-     .::'   `.    
-    :::       :    WAXING GIBBOUS
-    :::       :  
-    `::.     .'  
-      `':..-'    
-       _..._     
-     .'     `.    
-    :         :    FULL MOON
-    :         :  
-    `.       .'  
-      `-...-'  
-       _..._     
-     .'   `::.    
-    :       :::    WANING GIBBOUS
-    :       :::  
-    `.     .::'  
-      `-..:'' 
-       _..._     
-     .'  ::::.    
-    :    ::::::    LAST QUARTER
-    :    ::::::  
-    `.   :::::'  
-      `-.::''   
-       _..._     
-     .' .::::.    
-    :  ::::::::    WANING CRESCENT
-    :  ::::::::  
-    `. '::::::'  
-      `-.::'' 
-       _..._     
-     .:::::::.    
-    :::::::::::    NEW MOON
-    :::::::::::  
-    `:::::::::'  
-      `':::''
+
+
+            ┌──┤ WHOAMI ├─────────▰▰▰
+            │
+            ├─◈ Student
+            ├─◈ Satellite Team Member @Vinidra
+            ├─◈ Artist
+            │
+            └───────────────────────────────▰▰▰
+
+            ┌──┤ SOCIAL ├─────────▰▰▰
+            │
+            ├─◈ Email
+            ├─◈ Discord
+            ├─◈ <a href="https://www.linkedin.com/in/pragya-pan/">LinkedIn</a>
+            │
+            └───────────────────────────────▰▰▰
+
+            ┌──┤ PROJECTS ├─────────▰▰▰
+            │
+            ├─◈ UnRen
+            ├─◈ VBoard
+            ├─◈ QSelf            
+            ├─◈ DialC
+            │
+            └───────────────────────────────▰▰▰
