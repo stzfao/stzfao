@@ -4,7 +4,7 @@
                 .    .   ________   .  .      /////////     .    .
            .            |.____.  /\        ./////////    .
     .                 .//      \/  |\     /////////
-       .       .    .//          \ |  \ /////////       .     .   .                 Hello, you can call me stzfao, or ao for short.   
+       .       .    .//          \ |  \ /////////       .     .   .                 Hello, you can call me stzfao.   
                     ||.    .    .| |  ///////// .     .                                                                
      .    .         ||           | |//`,/////                .                      I like working on astronomy and aerospace
              .       \\        ./ //  /  \/   .                                     related projects, from low-level computing to 
@@ -14,16 +14,16 @@
       .        .          ///////// .   \ _ /          .
                         /////////                              .
                  .   ./////////     .     .                                         
-         .           --------   .                  ..             .                                     ~+
-                  .        .         .                       .                                                   *       +
-                                                                                                           '                  |
-                                                                                                       ()    .-.,="``"=.    - o -
-            Someday I will update my profile, uptill then here's a                                           '=/_       \     |
-            a bit about me:                                                                               *   |  '=._    |
-             - B.Tech in Electronics and Telecommunication Engineering                                         \     `=./`,        '
-             - I love vocaloids, voice synthesis and 8bit music                                             .   '=.__.=' `='      *
-             - I make digital art as a hobby :)                                                    +                         +
-             - 日本語OKです。                                                                             O      *        '       .
+         .           --------   .                  ..             .                                  ~+
+                  .        .         .                       .                                                *       +
+                                                                                                        '                  |
+                                                                                                    ()    .-.,="``"=.    - o -
+            Someday I will update my profile, uptill then here's a                                        '=/_       \     |
+            a bit about me:                                                                            *   |  '=._    |
+             - B.Tech in Electronics and Telecommunication Engineering                                      \     `=./`,        '
+             - I love vocaloids, voice synthesis and 8bit music                                          .   '=.__.=' `='      *
+             - I make digital art as a hobby :)                                                 +                         +
+             - 日本語OKです。                                                                          O      *        '       .
 
 
 
