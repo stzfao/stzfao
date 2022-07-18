@@ -40,7 +40,7 @@
             │
             ├─◈ Email
             ├─◈ Discord
-            ├─◈ <a href="https://www.linkedin.com/in/pragya-pan/">LinkedIn</a>
+            ├─◈ LinkedIn
             │
             └───────────────────────────────▰▰▰
 
