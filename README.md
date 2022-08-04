@@ -18,7 +18,7 @@
                   .        .         .                       .                                             *       +
                                                                                                      '                  |
                                                                                                  ()    .-.,="``"=.    - o -
-            Someday I will update my profile, uptill then here's a                                     '=/_       \     |
+            Someday I will update my profile, until then here's a                                      '=/_       \     |
             a bit about me:                                                                         *   |  '=._    |
              - B.Tech in Electronics and Telecommunication Engineering                                   \     `=./`,        '
              - I love vocaloids, voice synthesis and 8bit music                                       .   '=.__.=' `='      *
